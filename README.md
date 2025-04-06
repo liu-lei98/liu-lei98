@@ -51,12 +51,10 @@
 1. **"Degradation-Aware Dynamic Fourier-Based Network for Spectral Compressive Imaging"**  
    *IEEE Transactions on Multimedia*, 2024  
    [📄 PDF](https://ieeexplore.ieee.org/document/10214675) | [🔗 DOI](https://doi.org/10.1109/TMM.2023.3304450)  
-   ![Citations](https://img.shields.io/badge/Citations-15+-blue?style=flat-square)
 
 2. **"A Refinement Boosted and Attention Guided Deep FISTA Reconstruction Framework for Compressive Spectral Imaging"**  
    *IEEE Transactions on Geoscience and Remote Sensing*, 2023  
    [📄 PDF](https://ieeexplore.ieee.org/document/10068551) | [🔗 DOI](https://doi.org/10.1109/TGRS.2023.3257125)  
-   ![Citations](https://img.shields.io/badge/Citations-20+-blue?style=flat-square)
 
 </div>
 
@@ -97,7 +95,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,50:00d2ff,100:00d2ff&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
   
   <div style="margin: 20px 0; color: #666; font-size: 14px;">
-    <p>📧 Contact: <a href="mailto:your.email@example.com" style="color: #3a7bd5;">your.email@example.com</a></p>
+    <p>📧 Contact: <a href="Email" style="color: #3a7bd5;">liu_lei_98@163.com</a></p>
     <p>🏋️ Practice Makes Perfect | 🚀 Keep Learning | 🌱 Grow Every Day</p>
     <p>© 2023 Lei Liu | All Rights Reserved</p>
   </div>
