@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 动态标题横幅 - 统一渐变色系 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,50:00d2ff,100:00d2ff&height=250&section=header&text=Lei%20Liu&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Researcher%20|%20IEEE%20Author&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,50:00d2ff,100:00d2ff&height=250&section=header&text=Lei%20Liu&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Researcher%20|%20O^O&descAlignY=55" />
   
   <h1>👋 Hello, I'm Lei Liu</h1>
   
