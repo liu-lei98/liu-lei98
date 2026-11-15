@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 190" width="100%" role="img" aria-label="Skill Proficiency Matrix">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1020" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+    <linearGradient id="bar2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+    <linearGradient id="bar3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+    <linearGradient id="bar4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#ef4444" />
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="856" height="186" rx="12" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Header -->
+  <text x="26" y="32" font-family="ui-monospace, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#94a3b8" letter-spacing="1.2">
+    ATTRIBUTE_BARS // CORE_PROFICIENCY
+  </text>
+  <line x1="26" y1="44" x2="834" y2="44" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Row 1: Python / PyTorch (94%) -->
+  <g font-family="ui-monospace, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13">
+    <text x="26" y="74" fill="#e2e8f0" font-weight="600">Python / PyTorch</text>
+    <rect x="210" y="61" width="560" height="14" rx="7" fill="#1e293b" />
+    <rect x="210" y="61" width="526" height="14" rx="7" fill="url(#bar1)" />
+    <text x="790" y="73" fill="#38bdf8" font-weight="700">94%</text>
+  </g>
+
+  <!-- Row 2: LaTeX / Overleaf (90%) -->
+  <g font-family="ui-monospace, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13">
+    <text x="26" y="106" fill="#e2e8f0" font-weight="600">LaTeX / Overleaf</text>
+    <rect x="210" y="93" width="560" height="14" rx="7" fill="#1e293b" />
+    <rect x="210" y="93" width="504" height="14" rx="7" fill="url(#bar2)" />
+    <text x="790" y="105" fill="#34d399" font-weight="700">90%</text>
+  </g>
+
+  <!-- Row 3: MATLAB (82%) -->
+  <g font-family="ui-monospace, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13">
+    <text x="26" y="138" fill="#e2e8f0" font-weight="600">MATLAB</text>
+    <rect x="210" y="125" width="560" height="14" rx="7" fill="#1e293b" />
+    <rect x="210" y="125" width="459" height="14" rx="7" fill="url(#bar3)" />
+    <text x="790" y="137" fill="#a78bfa" font-weight="700">82%</text>
+  </g>
+
+  <!-- Row 4: Docker (74%) -->
+  <g font-family="ui-monospace, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13">
+    <text x="26" y="170" fill="#e2e8f0" font-weight="600">Docker</text>
+    <rect x="210" y="157" width="560" height="14" rx="7" fill="#1e293b" />
+    <rect x="210" y="157" width="414" height="14" rx="7" fill="url(#bar4)" />
+    <text x="790" y="169" fill="#fbbf24" font-weight="700">74%</text>
+  </g>
+</svg>
