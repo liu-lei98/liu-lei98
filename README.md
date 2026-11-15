@@ -7,6 +7,9 @@
   
   <!-- 统一风格的联系徽章 -->
   <div align="center" style="margin: 20px 0;">
+    <a href="https://liu-lei98.github.io">
+      <img src="https://img.shields.io/badge/Homepage-12162b?style=for-the-badge&logo=arcade&logoColor=ffcc33" alt="Homepage"/>
+    </a>
     <a href="https://github.com/liu-lei98">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
@@ -44,17 +47,25 @@
 - 📡 Spectral Reconstruction
 - 🤖 Deep Learning Applications
 
-## 📚 IEEE Publications
+## 📚 Publications
 
 <div style="background: rgba(58,123,213,0.1); padding: 15px; border-radius: 10px; margin: 15px 0;">
 
-1. **"Degradation-Aware Dynamic Fourier-Based Network for Spectral Compressive Imaging"**  
+1. **"Degradation learning adaptive deep unfolding network for spectral compressive imaging"**  
+   Lei Liu, Ping Xu, Xin Yuan, Chen Xu, Haifeng Zheng  
+   *Pattern Recognition*, 2026-07  
+   [🔗 DOI](https://doi.org/10.1016/j.patcog.2026.113058)  
+   ![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2Fhttps%3A%2F%2Fdoi.org%2F10.1016%2Fj.patcog.2026.113058&query=%24.cited_by_count&label=Citations&color=00d2ff&style=flat-square)
+
+2. **"Degradation-Aware Dynamic Fourier-Based Network for Spectral Compressive Imaging"**  
    *IEEE Transactions on Multimedia*, 2024  
    [📄 PDF](https://ieeexplore.ieee.org/document/10214675) | [🔗 DOI](https://doi.org/10.1109/TMM.2023.3304450)  
+   ![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2Fhttps%3A%2F%2Fdoi.org%2F10.1109%2FTMM.2023.3304450&query=%24.cited_by_count&label=Citations&color=00d2ff&style=flat-square)
 
-2. **"A Refinement Boosted and Attention Guided Deep FISTA Reconstruction Framework for Compressive Spectral Imaging"**  
+3. **"A Refinement Boosted and Attention Guided Deep FISTA Reconstruction Framework for Compressive Spectral Imaging"**  
    *IEEE Transactions on Geoscience and Remote Sensing*, 2023  
    [📄 PDF](https://ieeexplore.ieee.org/document/10068551) | [🔗 DOI](https://doi.org/10.1109/TGRS.2023.3257125)  
+   ![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2Fhttps%3A%2F%2Fdoi.org%2F10.1109%2FTGRS.2023.3257125&query=%24.cited_by_count&label=Citations&color=00d2ff&style=flat-square)
 
 </div>
 
@@ -95,8 +106,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,50:00d2ff,100:00d2ff&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
   
   <div style="margin: 20px 0; color: #666; font-size: 14px;">
-    <p>📧 Contact: <a href="Email" style="color: #3a7bd5;">liu_lei_98@163.com</a></p>
+    <p>📧 Contact: <a href="mailto:liu_lei_98@163.com" style="color: #3a7bd5;">liu_lei_98@163.com</a></p>
     <p>🏋️ Practice Makes Perfect | 🚀 Keep Learning | 🌱 Grow Every Day</p>
-    <p>© 2023 Lei Liu | All Rights Reserved</p>
+    <p>© 2026 Lei Liu | All Rights Reserved</p>
   </div>
 </div>
